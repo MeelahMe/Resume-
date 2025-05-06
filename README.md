@@ -12,7 +12,7 @@ Technical Writer specializing in developer documentation, APIs, cloud databases,
 
 **Technical Writer Intern**  
 *InfluxData* — Remote  
-*Dec 2024 – Present*  
+*December 2024 – Present*  
 - Created and maintained developer documentation for InfluxDB APIs, CLIs, and client libraries, supporting thousands of enterprise developers.
 - Developed tutorials, conceptual guides, and user journeys that improved platform onboarding and reduced developer troubleshooting needs.
 - Delivered high-quality content using docs-as-code workflows (Hugo, Markdown, YAML, Git).
@@ -26,12 +26,36 @@ Technical Writer specializing in developer documentation, APIs, cloud databases,
 - Collected and annotated real-world driving data to train vision-based behavioral cloning models.
 - Authored technical documentation for model training workflows and system deployment processes using Markdown and GitHub, improving reproducibility across teams.
 
+**Computer Science Intern**  
+*National Energy Research Scientific Computing Center (NERSC)* — Berkeley, CA  
+*March 2020 – January 2021 · 11 mos*  
+- Created a workflow to maintain the integrity of the NERSC High-Performance Computing Data Center, enabling more efficient, reliable, environmentally friendly, and financially sustainable operations.  
+- Maintained the functionality of environmental sensors and analyzed power distribution unit (PDU) and power consumption data.  
+- Created an instance that minimized downtime in the Operations Monitoring and Notification Infrastructure (OMNI).  
+- Deployed a lightweight Kubernetes (k3s) cluster and containerized services with Docker to increase OMNI’s speed, reliability, and extensibility.
+
 **DevOps Intern**  
 *Lawrence Berkeley National Laboratory – NERSC* — Berkeley, CA  
-*2019 – 2021*  
+*May 2019 – August 2020*  
 - Created technical documentation for HPC systems, Docker containerization, Kubernetes deployment, and monitoring infrastructure (Grafana, Prometheus).
 - Documented distributed training workflows using TensorFlow, Horovod, Jupyter Notebooks, and Linux clusters, enhancing reproducibility and system scalability documentation.
 - Supported SC18 competition teams by delivering clean, technical diagrams and operational guides under tight deadlines, contributing to successful project showcase.
+
+**Visiting Researcher**  
+*Berkeley Sensor & Actuator Center* — Berkeley, CA  
+*June 2017 – August 2020*  
+*Electromagnetic Energy Harvester for Atmospheric and Power-System Sensors*  
+- Developed low-cost, easily-installed energy harvesters for overhead and underground power lines.  
+- Integrated microcontrollers with magnetic field sensors to collect power system data.  
+- Designed and analyzed circuit schematics to optimize system performance.  
+- Conducted advanced data analysis and visualization using MATLAB.  
+- Created precise technical models using AutoCAD.  
+- Documented research procedures and findings for both technical and non-technical audiences.
+
+*Self-Cleaning Mass Sensor for Particulate Matter Monitors*  
+- Investigated methods for cleaning particulate mass sensors between depositions to maintain long-term measurement accuracy.  
+- Explored spectroscopic techniques to analyze chemical composition of airborne particles.  
+- Contributed to the development of scalable, low-cost particulate matter monitors for public health applications.
 
 ---
 
@@ -74,3 +98,5 @@ Berkeley City College — May 2021
 - Extensive experience with Markdown, Hugo, YAML, Git, Docker, SQL, Python, and Unix environments.
 - Strong background documenting distributed systems, cloud workflows, and machine learning applications.
 - Proven ability to improve developer onboarding, usability, and adoption through clear, actionable documentation.
+
+
