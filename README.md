@@ -88,6 +88,9 @@ Technical Writer specializing in developer documentation, APIs, cloud databases,
 
 ## Education
 
+**Bachelor of Science – Applied and Computational Mathematics**  
+San José State University — Expected December 2025
+
 **Associate of Science – Mathematics**  
 Berkeley City College — May 2021
 
@@ -98,5 +101,3 @@ Berkeley City College — May 2021
 - Extensive experience with Markdown, Hugo, YAML, Git, Docker, SQL, Python, and Unix environments.
 - Strong background documenting distributed systems, cloud workflows, and machine learning applications.
 - Proven ability to improve developer onboarding, usability, and adoption through clear, actionable documentation.
-
-
