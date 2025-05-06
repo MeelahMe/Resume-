@@ -15,7 +15,7 @@ Technical Writer specializing in developer documentation, APIs, cloud databases,
 *Dec 2024 – Present*  
 - Created and maintained developer documentation for InfluxDB APIs, CLIs, and client libraries, supporting thousands of enterprise developers.
 - Developed tutorials, conceptual guides, and user journeys that improved platform onboarding and reduced developer troubleshooting needs.
-- Delivered high-quality content using docs-as-code workflows (Hugo, Markdown, YAML, Git), achieving near 100% PR acceptance with minimal technical edits.
+- Delivered high-quality content using docs-as-code workflows (Hugo, Markdown, YAML, Git).
 - Collaborated cross-functionally with engineers, PMs, and UX researchers to identify and document critical user journeys.
 - Validated documentation instructions in Unix-based environments using Docker, Python, SQL, and shell scripting.
 
