@@ -65,6 +65,13 @@ Technical Writer specializing in developer documentation, APIs, cloud databases,
 - Built a full-stack Retrieval-Augmented Generation (RAG) system for multilingual CV parsing and semantic search using Gemini Pro, FastAPI, and Weaviate vector database.
 - Implemented semantic retrieval across English, Spanish, and Arabic CVs, integrating explainable AI scoring and ranking for candidate evaluation.
 - Developed a containerized deployment architecture (Docker) and documented API endpoints, data models, and system workflows for future extensibility.
+  
+**Vice President – Black Alliance of Scientists and Engineers (BASE)**  
+*August 2021 – August 2022*  
+- Spearheaded the planning and execution of academic, technical, and professional development events, increasing member engagement by over 30%.  
+- Directed cross-functional initiatives with faculty, student organizations, and corporate partners to deliver impactful programming and secure sponsorships.  
+- Managed project timelines, budgets, and logistics across multiple concurrent initiatives, ensuring successful delivery from concept to execution.  
+- Mentored junior members and led recruitment efforts, significantly expanding the organization’s reach and presence on campus.
 
 **Deep Learning School for Science (DSL4SCI) – Participant**  
 - Engaged with researchers and engineers in applying deep learning methods to scientific computing workflows at Lawrence Berkeley National Laboratory.
