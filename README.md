@@ -72,6 +72,13 @@ Technical Writer specializing in developer documentation, APIs, cloud databases,
 - Directed cross-functional initiatives with faculty, student organizations, and corporate partners to deliver impactful programming and secure sponsorships.  
 - Managed project timelines, budgets, and logistics across multiple concurrent initiatives, ensuring successful delivery from concept to execution.  
 - Mentored junior members and led recruitment efforts, significantly expanding the organization’s reach and presence on campus.
+  
+**Vice President – Unified Health Alliance**  
+*August 2020 – August 2021*  
+- Led the planning and execution of health-related projects and events, managing all aspects from concept to completion.  
+- Coordinated efforts among healthcare professionals, students, and community organizations to deliver impactful, inclusive programming.  
+- Oversaw project timelines, resources, and budgets, consistently delivering initiatives on time and within scope.  
+- Introduced operational practices that improved the efficiency and sustainability of club activities.
 
 **Deep Learning School for Science (DSL4SCI) – Participant**  
 - Engaged with researchers and engineers in applying deep learning methods to scientific computing workflows at Lawrence Berkeley National Laboratory.
@@ -104,7 +111,10 @@ Berkeley City College — May 2021
 ---
 
 ## Quick Recruiter Highlights
-- 4+ years writing technical content for developers, APIs, databases, backend, and AI/ML systems.
-- Extensive experience with Markdown, Hugo, YAML, Git, Docker, SQL, Python, and Unix environments.
-- Strong background documenting distributed systems, cloud workflows, and machine learning applications.
-- Proven ability to improve developer onboarding, usability, and adoption through clear, actionable documentation.
+- 4+ years writing technical content for developers, APIs, databases, backend systems, and AI/ML workflows.
+- Strong background in documenting distributed systems, cloud-native tools, and machine learning applications for enterprise platforms.
+- Experienced in cross-functional collaboration with engineers, product managers, researchers, and UX designers to deliver accurate, high-impact documentation.
+- Skilled in Markdown, Hugo, YAML, Git, Docker, SQL, Python, FastAPI, and Unix-based development environments.
+- Committed to improving developer onboarding, usability, and product adoption through clear, actionable, and technically rigorous content.
+- Proven leader and project manager: served as Vice President of BASE, led cross-functional initiatives, and coordinated technical events and student engagement efforts.
+
